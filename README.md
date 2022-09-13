@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1>Hi there 👋 I'm Gloria!</h1>
 
-<!--
-**GloriaFL/GloriaFL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+🎓Just completed a <strong>Full Stack Web Development</strong> bootcamp at Le Wagon, in Madrid, Spain.<br>
+🔎Now i'm searching for a job!<br>
+📫 How to reach me: https://www.linkedin.com/in/gloria-font<br>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>🌍My languages:</h3>
+🗽English💂‍♂️ - fluent<br>
+💃Spanish🥘 - native<br>
+<br>
+😊Thank you!
