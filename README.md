@@ -2,7 +2,7 @@
 
 <p>
 🎓Just completed a <strong>Full Stack Web Development</strong> bootcamp at Le Wagon, in Madrid, Spain.<br>
-🔎Now i'm searching for a job!<br>
+🔎Now i'm searching for a job and continue learning!<br>
 📫 How to reach me: https://www.linkedin.com/in/gloria-font<br>
 </p>
 
