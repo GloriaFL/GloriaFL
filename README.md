@@ -4,7 +4,7 @@
 🎓Just completed a <strong>Full Stack Web Development</strong> bootcamp at Le Wagon, in Madrid, Spain.<br>
 🔎Now i'm searching for a job and continue learning!<br> 
 </p>
-
+<br>
 <h3 align="left">🤝How to reach me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/gloria-font/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="GloriaFL" height="30" width="40" /></a>
