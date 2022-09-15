@@ -17,6 +17,7 @@
 <br>
 <br>
 
+<h3>🛠Skills:</h3>
 <p align="left"> 
 <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -28,6 +29,10 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>  
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
- </p>
+</p>
+<br><br>
+<h3>🎮Free-time:</h3>
+<a href="https://www.codewars.com/users/GloriaFL" target="_blank" rel="noreferrer"> <img src="https://assets-global.website-files.com/62462834c60df92621c6b5be/62462c29f3165b55ea6255ea_light-text-logo-vertical.svg" alt="codewars" width="40" height="40"/> </a>
 
+<br><br>
 😊Thank you!
