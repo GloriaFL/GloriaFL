@@ -1,8 +1,8 @@
-<h1 id="top">Hi there 👋 I'm Gloria!</h1>
+ <h1 id="top">Hi there 👋 I'm Gloria!</h1>
 
 <p>
 🎓Recently completed a <strong>Full Stack Web Development</strong> bootcamp at Le Wagon, in Madrid, Spain.<br>
-🔎Now I'm searching for a job and continue learning coding skills!<br> 
+🔎Now I'm searching for a job and always continue learning coding skills!<br> 
 </p>
 <br>
 <h3 align="left">🤝How to reach me:</h3>
@@ -31,11 +31,18 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 </p>
 <br><br>
+
+<h3>💾Now i'm learning:</h3>
+<a href="https://wiki.python.org/moin/BeginnersGuide" target="_blank" rel="noreferrer"> <img src="https://www.devacademy.es/wp-content/uploads/2018/10/python-logo.png" alt="python" width="40" height="40"/> </a>
+<br><br>
+
 <h3>🎮Free-time:</h3>
+<p align="left">
 <a href="https://www.codewars.com/users/GloriaFL" target="_blank" rel="noreferrer"> <img src="https://assets-global.website-files.com/62462834c60df92621c6b5be/62462c29f3165b55ea6255ea_light-text-logo-vertical.svg" alt="codewars" width="40" height="40"/> </a>
 <a href="https://www.codingame.com/profile/67b4499412988caeee0849c8eee0182d3908805" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codingame-1.svg" alt="codingame" width="40" height="40"/> </a>
+</p>
 
 <br><br>
 😊Thank you!
 <br>
-<a href="#top">Jump to Top</a>
+<a  href="#top">Jump to Top</a>
