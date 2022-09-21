@@ -1,4 +1,4 @@
- <h1 id="top">Hi there 👋 I'm Gloria!</h1>
+ <h1>Hi there 👋 I'm Gloria!</h1>
 
 <p>
 🎓Recently completed a <strong>Full Stack Web Development</strong> bootcamp at Le Wagon, in Madrid, Spain.<br>
@@ -40,9 +40,9 @@
 <h3>🎮Free-time:</h3>
 <a href="https://www.codewars.com/users/GloriaFL" target="_blank" rel="noreferrer"> <img src="https://assets-global.website-files.com/62462834c60df92621c6b5be/62462c29f3165b55ea6255ea_light-text-logo-vertical.svg" alt="codewars" width="40" height="40"/> </a>
 <a href="https://www.codingame.com/profile/67b4499412988caeee0849c8eee0182d3908805" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codingame-1.svg" alt="codingame" width="40" height="40"/> </a>
-<br><br>
+<br>
+<br>
 
 
 😊Thank you!
-<br>
-<a  href="#top">Jump to Top</a>
+
