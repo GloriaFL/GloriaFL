@@ -36,7 +36,6 @@
 
 <h3>💾Now i'm learning:</h3>
 <a href="https://wiki.python.org/moin/BeginnersGuide" target="_blank" rel="noreferrer"> <img src="https://www.devacademy.es/wp-content/uploads/2018/10/python-logo.png" alt="python" width="40" height="40"/> </a>
-<a href="https://nodejs.org/es" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="nodejs" width="40" height="40"/> </a>
 <br><br>
 
 <h3>🎮Free-time:</h3>
