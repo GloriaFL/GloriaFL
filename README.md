@@ -2,7 +2,7 @@
 
 <p>
 🎓Recently completed a <strong>Full Stack Web Development</strong> bootcamp at Le Wagon, in Madrid, Spain.<br>
-🔎Now I'm searching for a job and always continue learning coding skills!<br> 
+🔎Now I'm searching for a job and keep on learning coding skills!<br> 
 </p>
 <br>
 
