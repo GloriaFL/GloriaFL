@@ -36,7 +36,7 @@
 
 <h3>💾 Now i'm learning:</h3>
 <a href="https://wiki.python.org/moin/BeginnersGuide" target="_blank" rel="noreferrer"> <img src="https://www.devacademy.es/wp-content/uploads/2018/10/python-logo.png" alt="python" width="40" height="40"/> </a>
-
+<br><br>
 
 <h3>🎮 Free-time:</h3>
 <a href="https://www.codewars.com/users/GloriaFL" target="_blank" rel="noreferrer"> <img src="https://assets-global.website-files.com/62462834c60df92621c6b5be/62462c29f3165b55ea6255ea_light-text-logo-vertical.svg" alt="codewars" width="40" height="40"/> </a>
