@@ -12,7 +12,7 @@
 </p>
 <br>
 
-<h3>🌍My languages:</h3>
+<h3>🌍 My languages:</h3>
 🗽English💂‍♂️ - fluent<br>
 💃Spanish🥘 - native<br>
 <br><br>
